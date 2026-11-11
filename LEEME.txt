@@ -1,0 +1,14 @@
+MODA · 70 DÍAS — APLICACIÓN WEB INSTALABLE
+
+Archivos:
+- index.html: aplicación completa
+- manifest.webmanifest: configuración instalable
+- sw.js: caché para uso sin conexión de la interfaz
+- icon.svg: icono
+
+IMPORTANTE:
+Para instalarla como aplicación Android, estos archivos deben estar publicados en una dirección HTTPS.
+La forma gratuita más sencilla es subir el contenido de esta carpeta a un repositorio GitHub y activar GitHub Pages.
+Después, abre la dirección HTTPS en Chrome en Android y elige ⋮ > Añadir a pantalla de inicio o Instalar aplicación.
+
+El progreso se guarda localmente en el navegador/dispositivo. Los enlaces a películas, vídeos y lecturas necesitan internet.
